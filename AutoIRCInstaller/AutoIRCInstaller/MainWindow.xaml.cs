@@ -30,7 +30,7 @@ namespace AutoIRCInstaller
 
                    // AutoInsightUninstaller Au = new AutoInsightUninstaller();
                    // Au.StartInsightUninstaller();
-                    biuld should fail now// AutoUpgrade AU = new AutoUpgrade();
+                    biuld should fail now 123// AutoUpgrade AU = new AutoUpgrade();
                     //AU.StartUpgradeInstaller();
 
                     //AutoHelper ah = new AutoHelper();
