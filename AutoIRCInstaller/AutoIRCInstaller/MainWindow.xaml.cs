@@ -28,8 +28,8 @@ namespace AutoIRCInstaller
                 if (instancecount)
                 {
 
-                    //AutoInsightUninstaller Au = new AutoInsightUninstaller();
-                    //Au.StartInsightUninstaller();
+                   ** AutoInsightUninstaller Au = new AutoInsightUninstaller();
+                    Au.StartInsightUninstaller();
                     //AutoUpgrade AU = new AutoUpgrade();
                     //AU.StartUpgradeInstaller();
 
