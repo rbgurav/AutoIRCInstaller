@@ -28,15 +28,14 @@ namespace AutoIRCInstaller
                 if (instancecount)
                 {
 
-<<<<<<< .mine
-                   shoul failer AutoInsightUninstaller Au = new AutoInsightUninstaller();
+                  AutoInsightUninstaller Au = new AutoInsightUninstaller();
                     Au.StartInsightUninstaller();
                     //AutoUpgrade AU = new AutoUpgrade();
-=======
+
                    // AutoInsightUninstaller Au = new AutoInsightUninstaller();
                    // Au.StartInsightUninstaller();
-                    biuld should fail now 123// AutoUpgrade AU = new AutoUpgrade();
->>>>>>> .theirs
+                    // AutoUpgrade AU = new AutoUpgrade();
+
                     //AU.StartUpgradeInstaller();
 
                     //AutoHelper ah = new AutoHelper();
